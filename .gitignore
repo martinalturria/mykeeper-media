@@ -1,0 +1,6 @@
+# Only final media goes here (public). Raw footage, frames and drafts never do.
+*-crudo.*
+frames/
+muestras/
+.DS_Store
+Thumbs.db
